@@ -1,0 +1,22 @@
+.messages {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  .message-container {
+    display: flex;
+    width: 20%;
+    margin: 2.5%;
+  }
+  
+  .form-group.button-group {
+    margin: 0 auto 0 50px;
+  }
+  
+  body {
+    background: url(../img/so.jpeg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
